@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Connor 👋🚀
 
-<!--
-**ConnorGraham/ConnorGraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!![banner](https://raw.githubusercontent.com/ConnorGraham/ConnorGraham/master/banner.png)
 
-Here are some ideas to get you started:
+I'm a DevOps consultant. I enable software engineering groups to ship higher quality code more frequenctly by:
+1. Adopting a DevOps working culture
+2. Creating tooling to enable developers to own their work from development through to production
+3. Automating everything
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web 🌎
+* [Blog](https://connorgraham.github.io/) 🚢
+* [LinkedIn](https://www.linkedin.com/in/connormwg/) 💻
+* [Twitter](https://twitter.com/connormwg) 🐦
+
