@@ -1,6 +1,6 @@
 # Hi, I'm Connor 👋🚀
 
-!![banner](https://raw.githubusercontent.com/ConnorGraham/ConnorGraham/master/banner.png)
+![banner](https://raw.githubusercontent.com/ConnorGraham/ConnorGraham/master/banner.png)
 
 I'm a DevOps consultant. I enable software engineering groups to ship higher quality code more frequenctly by:
 1. Adopting a DevOps working culture
